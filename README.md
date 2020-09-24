@@ -1,3 +1,3 @@
-# jeremy-bearimy-starter
+# Project 1 working edit
 
-starter code for side effects day 5
+
